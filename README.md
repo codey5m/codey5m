@@ -1,4 +1,4 @@
-👋 ### Hi, im [Codey][website]!
+👋 Hi, im [Codey][website]!
 <br/>
 👀 I’m interested in FiveM Development
 <br/>
