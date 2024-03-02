@@ -15,6 +15,6 @@
 [<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
 
 [twitch]: https://twitch.tv/xocodey
-[youtube]: https://www.youtube.com/astralrp
-[discord]: https://discord.gg/astralrp
-[website]: https://us.arp.net
+[youtube]: https://www.youtube.com/astral5m
+[discord]: https://discord.gg/astral5m
+[website]: https://astral5m.net
