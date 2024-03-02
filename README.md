@@ -8,7 +8,7 @@
 <br/>
 📫 How to reach me codeypooh#0
 
-### Socials
+### ARP Socials
 
 [<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
